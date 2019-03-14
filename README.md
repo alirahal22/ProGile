@@ -9,10 +9,13 @@ He can also allow team members to have their own teams if he wishes so.
 * Coach can ask questions
 
 ![](images/create_project.png)
+__________________________________________________________
 
 ![](images/delete_project.png)
+__________________________________________________________
 
 ![](images/manage_team.png)
+__________________________________________________________
 
 ![](images/sending_questions.png)
 
